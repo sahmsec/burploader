@@ -29,3 +29,12 @@ powershell -c "irm https://raw.githubusercontent.com/sahmsec/burploader/main/bur
 ```bash
 curl -fsSL https://raw.githubusercontent.com/sahmsec/burploader/main/burploader.jar -o burploader.jar && java -jar burploader.jar
 ```
+
+## Requirements
+
+| | Version |
+|---|---|
+| **Minimum JDK** | 21 |
+| **Recommended** | 22 or 23 |
+
+> Use a JDK that's 1–2 years old for the most stable, bug-free experience. Brand-new JDK releases may have compatibility quirks with Swing or the loader agent. JDK 21 is the long-term support (LTS) baseline.
