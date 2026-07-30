@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-Pro%20Loader-F46A0A?style=for-the-badge&logo=burpsuite&logoColor=white" />
-</p>
-
-<p align="center">
   <a href="https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar">
     <img src="https://img.shields.io/badge/Click%20here%20to-download-F46A0A?style=for-the-badge&logo=download&logoColor=white" alt="Click here to download" />
   </a>
