@@ -8,7 +8,9 @@
 
 ## Download
 
-**[Click here to download](https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar)**
+<p align="center">
+  <a href="https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar" style="font-size:18px;color:#F46A0A;font-weight:bold;text-decoration:none">⬇ Click here to download</a>
+</p>
 
 Save as `burploader.jar`, then open a terminal and run:
 
