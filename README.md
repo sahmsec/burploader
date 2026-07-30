@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar" style="font-size:20px;font-weight:bold;color:#FF6B00;text-decoration:none;background:#1a1a26;padding:10px 36px;border-radius:8px">⬇ Download burploader.jar</a>
+  <a href="https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar" style="font-size:24px;font-weight:bold;color:#FF6B00;text-decoration:none;background:#1a1a26;padding:14px 40px;border-radius:8px">Click here to download</a>
 </p>
 
 <p align="center">
