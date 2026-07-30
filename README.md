@@ -8,26 +8,28 @@
 
 ## Download
 
+Replace `$DOWNLOAD_URL` with the actual JAR download link.
+
 **Windows (PowerShell):**
 ```powershell
-powershell -c "irm https://raw.githubusercontent.com/sahmsec/burploader/main/burploader.jar -OutFile burploader.jar"
+powershell -c "irm $DOWNLOAD_URL -OutFile burploader.jar"
 ```
 
 **macOS / Linux:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/sahmsec/burploader/main/burploader.jar -o burploader.jar
+curl -fsSL $DOWNLOAD_URL -o burploader.jar
 ```
 
 ## Download & Run
 
 **Windows (PowerShell):**
 ```powershell
-powershell -c "irm https://raw.githubusercontent.com/sahmsec/burploader/main/burploader.jar -OutFile burploader.jar; java -jar burploader.jar"
+powershell -c "irm $DOWNLOAD_URL -OutFile burploader.jar; java -jar burploader.jar"
 ```
 
 **macOS / Linux:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/sahmsec/burploader/main/burploader.jar -o burploader.jar && java -jar burploader.jar
+curl -fsSL $DOWNLOAD_URL -o burploader.jar && java -jar burploader.jar
 ```
 
 ## Requirements
