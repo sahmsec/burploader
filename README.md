@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar" style="font-size:24px;font-weight:bold;color:#FF6B00;text-decoration:none;background:#1a1a26;padding:14px 40px;border-radius:8px">Click here to download</a>
+  <a href="https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar">
+    <img src="https://img.shields.io/badge/Click%20here%20to-download-F46A0A?style=for-the-badge&logo=download&logoColor=white" alt="Click here to download" />
+  </a>
 </p>
 
 <p align="center">
