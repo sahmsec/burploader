@@ -37,4 +37,4 @@ curl -fsSL https://raw.githubusercontent.com/sahmsec/burploader/main/burploader.
 | **Minimum JDK** | 21 |
 | **Recommended** | 22 or 23 |
 
-> Use a JDK that's 1–2 years old for the most stable, bug-free experience. Brand-new JDK releases may have compatibility quirks with Swing or the loader agent. JDK 21 is the long-term support (LTS) baseline.
+> For best stability, use a JDK that is 1–2 versions behind the latest release (e.g., if JDK 26 is out, use JDK 24 or 25). Brand-new JDK releases may have compatibility quirks with Swing or the loader agent. JDK 21 is the long-term support (LTS) baseline.
