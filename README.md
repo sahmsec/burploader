@@ -10,9 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <sub>Save the file anywhere, then open a terminal and run <code>java -jar burploader.jar</code></sub>
-</p>
 
 ---
 
