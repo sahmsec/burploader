@@ -2,6 +2,8 @@
   <img src="burpsuite.webp" width="72" alt="Burp Suite" />
 </p>
 
+<h3 align="center">Burp Suite Pro Loader</h3>
+
 <p align="center">
   <a href="https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar">
     <img src="https://img.shields.io/badge/Click%20here%20to-download-F46A0A?style=for-the-badge&logo=download&logoColor=white" alt="Click here to download" />
