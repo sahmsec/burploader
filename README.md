@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="burp-icon.svg" width="64" alt="Burp Suite" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-Pro%20Loader-F46A0A?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
