@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="burp-icon.svg" width="64" alt="Burp Suite" />
+  <img src="burpsuite.webp" width="72" alt="Burp Suite" />
 </p>
 
 <p align="center">
