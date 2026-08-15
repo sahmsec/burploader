@@ -5,7 +5,7 @@
 <h3 align="center">Burp Suite Pro Loader</h3>
 
 <p align="center">
-  <a href="https://github.com/sahmsec/burploader/releases/download/v2/burploader.jar">
+  <a href="https://github.com/sahmsec/burploader/releases/latest/download/burploader.jar">
     <img src="https://img.shields.io/badge/Click%20here%20to-download-F46A0A?style=for-the-badge&logo=download&logoColor=white" alt="Click here to download" />
   </a>
 </p>
@@ -23,7 +23,7 @@
 <summary><b>Windows</b> (PowerShell)</summary>
 
 ```powershell
-powershell -c "irm https://github.com/sahmsec/burploader/releases/download/v2/burploader.jar -OutFile burploader.jar"
+powershell -c "irm https://github.com/sahmsec/burploader/releases/latest/download/burploader.jar -OutFile burploader.jar"
 ```
 
 </details>
@@ -32,7 +32,7 @@ powershell -c "irm https://github.com/sahmsec/burploader/releases/download/v2/bu
 <summary><b>macOS / Linux</b></summary>
 
 ```bash
-curl -fsSL https://github.com/sahmsec/burploader/releases/download/v2/burploader.jar -o burploader.jar
+curl -fsSL https://github.com/sahmsec/burploader/releases/latest/download/burploader.jar -o burploader.jar
 ```
 
 </details>
@@ -47,7 +47,7 @@ curl -fsSL https://github.com/sahmsec/burploader/releases/download/v2/burploader
 <summary><b>Windows</b> (PowerShell)</summary>
 
 ```powershell
-powershell -c "irm https://github.com/sahmsec/burploader/releases/download/v2/burploader.jar -OutFile burploader.jar; java -jar burploader.jar"
+powershell -c "irm https://github.com/sahmsec/burploader/releases/latest/download/burploader.jar -OutFile burploader.jar; java -jar burploader.jar"
 ```
 
 </details>
@@ -56,7 +56,7 @@ powershell -c "irm https://github.com/sahmsec/burploader/releases/download/v2/bu
 <summary><b>macOS / Linux</b></summary>
 
 ```bash
-curl -fsSL https://github.com/sahmsec/burploader/releases/download/v2/burploader.jar -o burploader.jar && java -jar burploader.jar
+curl -fsSL https://github.com/sahmsec/burploader/releases/latest/download/burploader.jar -o burploader.jar && java -jar burploader.jar
 ```
 
 </details>
